@@ -1,0 +1,17 @@
+.app{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: sans-serif;
+    justify-content: center;
+}
+
+.clock{
+    font-size: large;
+    background-color: black;
+    color: yellow;
+    box-shadow: 0, 0, 0, 0.5;
+    border-radius: 5px;
+    border: 3px black;
+}
