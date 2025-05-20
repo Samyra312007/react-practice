@@ -1,0 +1,40 @@
+.app{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    padding: 2rem;
+    margin: 2rem;
+    background-color: black;
+}
+
+.counter{
+    display: flex;
+    padding: 2rem;
+    margin: 2rem;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    box-shadow: 0, 0, 0, 0.5;
+}
+
+.increment{
+    margin: 2rem;
+    border-radius: 5px;
+    box-shadow: 0, 0, 0, 0.5;
+    background-color: cyan;
+}
+
+.decrement{
+    margin: 2rem;
+    border-radius: 5px;
+    box-shadow: 0, 0, 0, 0.5;
+    background-color: aqua;
+}
+
+.reset{
+    margin: 2rem;
+    border-radius: 5px;
+    box-shadow: 0, 0, 0, 0.5;
+    background-color: aquamarine;
+}
